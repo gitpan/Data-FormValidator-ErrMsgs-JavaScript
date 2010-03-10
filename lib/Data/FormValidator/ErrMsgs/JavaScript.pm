@@ -15,7 +15,7 @@ Data::FormValidator::ErrMsgs::JavaScript - Let JavaScript handle DFV error prese
 
 =cut
 
-our $VERSION = '0.50_01';
+our $VERSION = '1.00';
 
 =head1 SYNOPSIS
 
